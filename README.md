@@ -1,3 +1,3 @@
 # ECommerce .NET Core
 
-## Docker containerization 
+## Docker containerization for each microservice
